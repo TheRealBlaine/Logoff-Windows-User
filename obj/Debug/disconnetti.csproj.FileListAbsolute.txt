@@ -1,0 +1,13 @@
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\bin\Debug\disconnetti.exe.config
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\bin\Debug\disconnetti.exe
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\bin\Debug\disconnetti.pdb
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\obj\Debug\disconnetti.Disconnessione.resources
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\obj\Debug\disconnetti.Properties.Resources.resources
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\obj\Debug\disconnetti.csproj.GenerateResource.Cache
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\obj\Debug\disconnetti.exe
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\obj\Debug\disconnetti.pdb
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\bin\Debug\disconnetti.exe.manifest
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\bin\Debug\disconnetti.application
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\obj\Debug\disconnetti.exe.manifest
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\obj\Debug\disconnetti.application
+c:\users\rsanson\documents\visual studio 2015\Projects\disconnetti\disconnetti\obj\Debug\disconnetti.csprojResolveAssemblyReference.cache
